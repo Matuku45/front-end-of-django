@@ -44,6 +44,9 @@ function PersonForm({ onSave, editingPerson }) {
 
   <br/>
    <p> Hello </p>
+    <input type= "password" name = "password" value = "password"/>
+
+
   
 
   </div>
