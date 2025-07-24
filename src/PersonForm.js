@@ -118,6 +118,8 @@ function PersonForm({ onSave, editingPerson }) {
             onChange={e => setLastname(e.target.value)}
             style={styles.input}
           />
+
+              https://placement.tut.ac.za/view-jobs
         </div>
         <button
           type="submit"
